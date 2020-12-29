@@ -1,6 +1,9 @@
 ------------------------------------------------------
- ReadMe and Release Notes
+ ReadMe and Release Notes and Closing Thoughts...
 ------------------------------------------------------
+
+TO RUN:  Set your "TwitterConsumerKey" and "TwitterConsumerSecret" keys in the app.config.
+
 
 Project Roles:
 - TCC.Birdwatcher: Uses the Tweetinvi Nuget package to connect to the sample stream. With each incoming tweet it
